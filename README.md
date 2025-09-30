@@ -92,14 +92,20 @@ Página web interactiva creada para brindar información acerca de un festival d
 
 ---
 
+## 🛠️ Tecnologías aprendidas / conocidas
+- **Frontend:** HTML, CSS, SASS, Tailwind, JavaScript  
+- **Backend:** PHP, Node.js
+- **Bases de Datos:** MySQL, MongoDB
+- **Herramientas:** Git, GitHub, VS Code
+
 ## 📚 Aprendizaje y Desarrollo Actual
 
 Siempre estoy en busca de nuevos conocimientos para crecer como desarrollador. Actualmente, mis esfuerzos están centrados en:
 
-* **Desarrollo Web Moderno:** Profundizando en frameworks de JavaScript y las mejores prácticas del ecosistema actual.
-* **Ciencia de Datos e IA:** Explorando los conceptos clave de la **ciencia de datos** y el **machine learning** para aplicarlos en proyectos futuros.
-* **Formación Académica:** Cursando materias como *Desarrollo Web y Móvil*, *Ingeniería de Software* y *Análisis de Algoritmos* que fortalecen mi base teórica.
-* **Desarrollo Profesional:** Buscando oportunidades de **pasantías** para aplicar mis habilidades en un entorno profesional y contribuir a proyectos reales.
+* **Desarrollo Web Moderno**
+* **Ciencia de Datos e IA**
+* **Formación Académica** 
+* **Desarrollo Profesional**
 
 ---
 
