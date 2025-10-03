@@ -20,8 +20,6 @@ Plataforma web completa para la gestión integral de un evento de conferencias y
 - Java Script
 - HTML
 - CSS + SASS
-  
-**Estado:** Finalizado  
 
 ### [FlightControl](https://github.com/Gatumbac/FlightControl)
 Aplicación de escritorio para la gestión integral de una red de vuelos en un aeropuerto internacional (simulación).
@@ -29,20 +27,7 @@ Aplicación de escritorio para la gestión integral de una red de vuelos en un a
 **Tecnologías usadas:**   
 - Java
 - JavaFX
-- JGraphX
-  
-**Estado:** Finalizado  
-
-### [Finly](https://github.com/Gatumbac/finly)
-Plataforma web creada para la facturación en pequeñas empresas y freelancers.
-
-**Tecnologías usadas:**   
-- Java Script - Node.js
-- HTML - EJS
-- CSS - Tailwind
-- MongoDB - Mongoose
-  
-**Estado:** En Construcción
+- JGraphX 
 
 ### [UpTask](https://github.com/Gatumbac/UpTask)
 Plataforma web interactiva para la gestión de tareas en proyectos personales o profesionales.
@@ -53,8 +38,6 @@ Plataforma web interactiva para la gestión de tareas en proyectos personales o 
 - JavaScript
 - HTML
 - CSS + SASS
-  
-**Estado:** Finalizado  
 
 ### [AppSalon](https://github.com/Gatumbac/AppSalon)
 Plataforma web diseñada para gestionar citas en un salón de belleza. 
@@ -65,8 +48,6 @@ Plataforma web diseñada para gestionar citas en un salón de belleza.
 - JavaScript
 - HTML
 - CSS + SASS
-  
-**Estado:** Finalizado  
 
 ### [BienesRaices](https://github.com/Gatumbac/BienesRaicesMVC)
 Proyecto web para la publicación de anuncios y artículos de blog en una empresa dedicada a la venta de propiedades.
@@ -77,8 +58,6 @@ Proyecto web para la publicación de anuncios y artículos de blog en una empres
 - JavaScript
 - HTML
 - CSS + SASS
-  
-**Estado:** Finalizado  
 
 ### [FestivalMusica](https://github.com/Gatumbac/FestivalMusica)
 Página web interactiva creada para brindar información acerca de un festival de música.
@@ -87,14 +66,12 @@ Página web interactiva creada para brindar información acerca de un festival d
 - HTML
 - CSS + SASS
 - JavaScript
-  
-**Estado:** Finalizado  
 
 ---
 
 ## 🛠️ Tecnologías aprendidas / conocidas
 - **Frontend:** HTML, CSS, SASS, Tailwind, JavaScript  
-- **Backend:** PHP, Node.js
+- **Backend:** PHP, Python, Node.js
 - **Bases de Datos:** MySQL, MongoDB
 - **Herramientas:** Git, GitHub, VS Code
 
